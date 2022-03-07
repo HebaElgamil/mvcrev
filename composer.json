@@ -1,4 +1,11 @@
 {
+    "name": "HebaHamdi/mvcrev",
+    "description": "mvc for php",
+    "require": {
+        "php": ">=7.4",
+        "another-vendor/package": "1.*"
+    },
+    
     "autoload": {
         "psr-4":{
             "MVCREV\\":"app"
