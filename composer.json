@@ -3,17 +3,16 @@
     "description": "mvc for php",
     "require": {
         "php": ">=7.4",
-        "another-vendor/package": "1.*"
+        "another-vendor/package": "1.*",
+        "dcblogdev/pdo-wrapper": "^2.0",
+        "wixel/gump": "^1.11",
+        "minimum-stability": "dev"
     },
     
     "autoload": {
         "psr-4":{
             "MVCREV\\":"app"
         }
-    },
-    "require": {
-        "dcblogdev/pdo-wrapper": "^2.0",
-        "wixel/gump": "^1.11"
     }
 
 }
