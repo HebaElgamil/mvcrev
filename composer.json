@@ -1,5 +1,5 @@
 {
-    "name": "HebaHamdi/mvcrev",
+    "name": "hebahamdi/mvcrev",
     "description": "mvc for php",
     "require": {
         "php": ">=7.4",
