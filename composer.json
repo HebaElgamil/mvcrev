@@ -5,8 +5,7 @@
         "php": ">=7.4",
         "another-vendor/package": "1.*",
         "dcblogdev/pdo-wrapper": "^2.0",
-        "wixel/gump": "^1.11",
-        "minimum-stability": "dev"
+        "wixel/gump": "^1.11"
     },
     
     "autoload": {
